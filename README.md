@@ -130,9 +130,6 @@ scripts/        # validation and tooling
 - Free Parking has no house rule, and the cards are from the classic US edition.
 - The model says **nothing about who wins**: money, buying and building are not modelled.
 
-## 🤖 AI use
-
-I used **Claude** (Anthropic) to write the code and to explain how to set up the chain. The question, my guesses, the choice of rules and the interpretation are my own work.
 
 ---
 
@@ -226,9 +223,6 @@ scripts/        # validación y herramientas
 - Parqueo libre no tiene regla especial y las cartas son de la edición clásica de EE. UU.
 - El modelo **no dice nada sobre quién gana**: el dinero, las compras y la construcción no están modelados.
 
-## 🤖 Uso de IA
-
-Usé **Claude** (Anthropic) para escribir el código y para explicar cómo plantear la cadena. La pregunta, mis apuestas, la elección de reglas y la interpretación son trabajo mío.
 
 ---
 
