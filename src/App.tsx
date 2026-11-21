@@ -5,6 +5,7 @@ import {
 import {
   FaArrowDown, FaCheckCircle, FaDice, FaDiceFive, FaDiceSix, FaExclamationTriangle, FaFlask, FaGlobe, FaLock,
   FaMoon, FaPause, FaPlay, FaRedo, FaRobot, FaSun, FaTimesCircle, FaChartBar, FaProjectDiagram, FaRandom, FaQuestionCircle,
+  FaGithub, FaYoutube, FaGraduationCap,
 } from 'react-icons/fa';
 import { DEFAULT_RULES, JAIL, makeWalker, simulateRealGame, stationary, tv, type Rules } from './engine';
 import { GROUP_COLOR, GROUP_ORDER, SQUARES, groupSquares, gridPos, isProperty, type Group } from './data';
@@ -615,7 +616,16 @@ export default function App() {
         </U.Wrap>
       </U.Section>
 
-      <U.Footer><U.Wrap>{t.footer}</U.Wrap></U.Footer>
+            <U.Footer>
+        <U.Wrap>
+          <U.FootLinks>
+            <a href="https://pai.stanford.edu/pai1/portfolio/Va5AZCSmWUUuKTrg5kXA7Fxs99W2" target="_blank" rel="noopener noreferrer"><FaGraduationCap /> {t.linkPortfolio}</a>
+            <a href="https://github.com/DanielaM1293/Monopoly-Markov" target="_blank" rel="noopener noreferrer"><FaGithub /> {t.linkCode}</a>
+            <a href="https://www.youtube.com/watch?v=Vg3vix7P49g" target="_blank" rel="noopener noreferrer"><FaYoutube /> {t.linkVideo}</a>
+          </U.FootLinks>
+          {t.footer}
+        </U.Wrap>
+      </U.Footer>
     </U.Page>
   );
 }
