@@ -194,3 +194,8 @@ export const List = styled.ul`margin:0;padding:0;list-style:none;display:grid;ga
   li svg{flex:none;margin-top:4px;color:var(--accent2)}`;
 export const Footer = styled.footer`padding:48px 0 56px;border-top:1px solid var(--line);color:var(--muted);font-size:14px;text-align:center`;
 export const Tip = styled.div`background:var(--surface-solid);border:1px solid var(--line);border-radius:12px;padding:8px 12px;font-size:13px;box-shadow:var(--shadow);b{font-weight:800}`;
+export const FootLinks = styled.div`display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-bottom:22px;
+  a{display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;font-weight:800;font-size:14px;text-decoration:none;
+    color:var(--text);background:var(--surface);border:1px solid var(--line);transition:transform .25s,box-shadow .25s,border-color .25s}
+  a:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:var(--accent)}
+  a svg{color:var(--accent)}`;
