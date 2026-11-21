@@ -131,6 +131,9 @@ export const TXT = {
     aiBody:
       'I used Claude to write the code (the engine, this website) and to explain the Markov chain setup. The question, the guesses, the choice of rules and the interpretation are mine. I checked the model against two independent simulations before trusting it.',
     footer: 'By Estefany Daniela Martínez Niño -Made for Probability for AI · Stanford · All computation runs in your browser, no network.',
+    linkPortfolio: 'My course portfolio',
+    linkCode: 'Source code',
+    linkVideo: '60-second video',
     uniform: 'uniform',
   },
   es: {
@@ -262,6 +265,9 @@ export const TXT = {
     aiBody:
       'Usé Claude para escribir el código (el motor y este sitio) y para explicar cómo plantear la cadena de Markov. La pregunta, las apuestas, la elección de reglas y la interpretación son mías. Comprobé el modelo con dos simulaciones independientes antes de confiar en él.',
     footer: 'By Estefany Daniela Martínez Niño -Hecho para Probabilidad para IA · Stanford · Todo el cálculo corre en tu navegador, sin red.',
+    linkPortfolio: 'Mi portafolio del curso',
+    linkCode: 'Código fuente',
+    linkVideo: 'Video de 60 segundos',
     uniform: 'uniforme',
   },
 } as const;
