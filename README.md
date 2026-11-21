@@ -13,7 +13,15 @@
 <br/>
 
 <img src="docs/simulation.gif" alt="A token walking around the board while the heat map converges" width="760"/>
+<br/>
 
+<a href="https://www.youtube.com/watch?v=Vg3vix7P49g">
+  <img src="https://img.youtube.com/vi/Vg3vix7P49g/maxresdefault.jpg" alt="Watch the 60-second video" width="560"/>
+</a>
+
+[![Watch on YouTube](https://img.shields.io/badge/▶️_Watch_the_60s_video-Ver_el_video-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Vg3vix7P49g)
+
+<br/>
 <sub>A token walks the board and the heat map slowly finds the exact answer · La ficha camina y el mapa de calor encuentra poco a poco la respuesta exacta</sub>
 
 <br/>
