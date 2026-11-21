@@ -9,7 +9,7 @@
 [![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Stanford](https://img.shields.io/badge/Probability_for_AI-Stanford-8c1515?style=for-the-badge)](https://web.stanford.edu)
-
+[![Portfolio](https://img.shields.io/badge/🎓_Portfolio-Code_in_Place-8c1515?style=for-the-badge)](https://pai.stanford.edu/pai1/portfolio/Va5AZCSmWUUuKTrg5kXA7Fxs99W2)
 <br/>
 
 <img src="docs/simulation.gif" alt="A token walking around the board while the heat map converges" width="760"/>
